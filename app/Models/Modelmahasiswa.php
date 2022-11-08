@@ -15,4 +15,3 @@ class Modelmahasiswa extends Model
 
     
 }
-//
